@@ -8,5 +8,14 @@ Yield farming has become popular in recent years as a way for users to earn pass
 
 Yield farming can be a complex and technical topic, and it is important to understand the underlying mechanics and risks before getting involved. It is also important to be aware of the regulatory landscape, as yield farming and other cryptocurrency activities may be subject to different rules and regulations in different jurisdictions.
 
+## libraries in rust and golang
+
+In Rust, you can use the web3 library to interact with Ethereum blockchain and perform yield farming operations. The web3 library provides a high-level interface for working with Ethereum, including support for reading and writing data to the blockchain, creating and signing transactions, and interacting with smart contracts.
+
+To perform yield farming operations in Go, you can use the go-ethereum library, which provides a comprehensive set of APIs for interacting with Ethereum. The go-ethereum library includes support for reading and writing data to the blockchain, creating and signing transactions, and interacting with smart contracts.
+
+Both of these libraries require you to have some familiarity with Ethereum and blockchain technology in general. You may also need to have a local Ethereum node running and be familiar with concepts such as accounts, transactions, and smart contracts.
+
+It's worth noting that yield farming is a complex and constantly evolving area of blockchain technology, and the specific steps required to perform yield farming operations may vary depending on the specific protocols and platforms you are working with. It is always a good idea to thoroughly research and understand the risks and potential rewards of any yield farming strategy before diving in.
 
 
