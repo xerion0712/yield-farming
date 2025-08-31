@@ -11,7 +11,7 @@ Yield farming, also known as liquidity mining, is a process where users earn rew
 - Additional reward tokens
 - Protocol incentives
 
-## ⚠️ Important Disclaimer
+##  Important Disclaimer
 
 **Yield farming involves significant risks:**
 - Cryptocurrency price volatility
@@ -22,7 +22,7 @@ Yield farming, also known as liquidity mining, is a process where users earn rew
 
 **Always conduct thorough research and understand the risks before participating. This software is provided "as is" without warranties.**
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 blockchain-yield-farming/
@@ -36,7 +36,7 @@ blockchain-yield-farming/
 └── LICENSE                      # MIT License
 ```
 
-## 🦀 Rust Implementation
+##  Rust Implementation
 
 ### Features
 
