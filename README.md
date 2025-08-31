@@ -316,7 +316,7 @@ COPY --from=builder /app/target/release/yield-farming-client /usr/local/bin/
 CMD ["yield-farming-client"]
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
