@@ -241,7 +241,7 @@ MAX_DEPOSIT=1000000000000000000000
 - **Sepolia**: Ethereum testnet
 - **Local**: Local development network
 
-## 📊 Supported Operations
+##  Supported Operations
 
 ### Core Functions
 
@@ -264,7 +264,7 @@ MAX_DEPOSIT=1000000000000000000000
 - **Emergency Functions**: Emergency withdrawal and pause functionality
 - **Multi-Pool Support**: Manage multiple yield farming pools
 
-## 🧪 Testing
+##  Testing
 
 ### Rust Testing
 
