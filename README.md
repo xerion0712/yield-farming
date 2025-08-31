@@ -208,7 +208,7 @@ func main() {
 }
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
