@@ -241,7 +241,7 @@ MAX_DEPOSIT=1000000000000000000000
 - **Sepolia**: Ethereum testnet
 - **Local**: Local development network
 
-## 📊 Supported Operations
+##  Supported Operations
 
 ### Core Functions
 
