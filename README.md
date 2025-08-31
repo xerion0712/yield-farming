@@ -1,8 +1,8 @@
-# 🚀 Blockchain Yield Farming
+#  Blockchain Yield Farming
 
 A comprehensive yield farming client for Ethereum blockchain, implemented in both **Rust** and **Go**. This project provides robust, production-ready tools for interacting with DeFi yield farming protocols.
 
-## 🌾 What is Yield Farming?
+##  What is Yield Farming?
 
 Yield farming, also known as liquidity mining, is a process where users earn rewards by providing liquidity to decentralized exchanges (DEXs) or other blockchain platforms. Users deposit their cryptocurrency assets into liquidity pools and earn rewards based on:
 
