@@ -114,7 +114,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
 }
 ```
 
-## 🐹 Go Implementation
+##  Go Implementation
 
 ### Features
 
@@ -208,7 +208,7 @@ func main() {
 }
 ```
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables
 
