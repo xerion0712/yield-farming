@@ -292,7 +292,7 @@ go test -v ./...
 go test -race ./...
 ```
 
-## 🚀 Deployment
+## Deployment
 
 ### Production Considerations
 
