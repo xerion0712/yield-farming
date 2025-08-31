@@ -36,7 +36,7 @@ blockchain-yield-farming/
 └── LICENSE                      # MIT License
 ```
 
-## 🦀 Rust Implementation
+##  Rust Implementation
 
 ### Features
 
