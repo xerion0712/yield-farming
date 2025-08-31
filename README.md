@@ -329,7 +329,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 5. Ensure all tests pass
 6. Submit a pull request
 
-## 📚 Documentation
+##  Documentation
 
 - [API Reference](docs/API.md)
 - [Smart Contract Integration](docs/SMART_CONTRACTS.md)
