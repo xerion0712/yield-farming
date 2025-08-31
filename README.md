@@ -264,7 +264,7 @@ MAX_DEPOSIT=1000000000000000000000
 - **Emergency Functions**: Emergency withdrawal and pause functionality
 - **Multi-Pool Support**: Manage multiple yield farming pools
 
-## 🧪 Testing
+##  Testing
 
 ### Rust Testing
 
